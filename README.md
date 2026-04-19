@@ -7,8 +7,8 @@ A short description of your project goes here. Explain what the project does and
 ## 📂 Project Structure
 - `src/` → Source code
 - `docs/` → Documentation
-- `tests/` → Unit and integration tests
-- `README.md` → Project overview
+- `tests/` → Unit and integration tests directory
+- `README.md` → Project overview and contribution guidelines
 
 ---
 
